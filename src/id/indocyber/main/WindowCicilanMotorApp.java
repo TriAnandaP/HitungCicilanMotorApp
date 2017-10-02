@@ -13,7 +13,7 @@ import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
 import javax.swing.JRadioButton;
 
-//saya menambah comment disini
+//saya menambah comment disinii
 
 /**
  * Aplikasi pengecekan untuk permohonan kredit motor di PT Surya Anugrah Bogor. 
